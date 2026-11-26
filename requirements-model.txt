@@ -1,0 +1,2 @@
+# Required for training, evaluation and inference. CPU is sufficient.
+tensorflow>=2.16,<2.22
